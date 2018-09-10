@@ -51,7 +51,7 @@
 }
 
 @media (max-width:700px) {
-   {
+  about  {
     display:none;
   }
   #navbar nav a.menu-icon {
